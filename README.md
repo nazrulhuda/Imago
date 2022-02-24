@@ -9,8 +9,8 @@ GETTING STARTED
     
     python main.py
     
-    ![](/img1.png)
+![](/img1.png)
     
 3 - Edit your pictures 
     
-    ![](/img2.png)
+![](/img2.png)
