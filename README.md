@@ -1,4 +1,4 @@
-# Imago
+# Imago-Beautify your pictures.
 
 GETTING STARTED
 
